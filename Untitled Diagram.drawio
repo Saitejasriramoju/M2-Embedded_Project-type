@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T15:02:55.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.8.7" etag="yI7YVAejUzR2b3V9TDsU" type="github"><diagram id="LB2-IDTFWZDwNtNZR28o">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-30T15:20:13.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="oTGWKSmaXxtFu38K_IiJ" version="15.8.7" type="github">
+  <diagram id="LB2-IDTFWZDwNtNZR28o" name="Page-1">
+    <mxGraphModel dx="1038" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yO4VWulvNxc_o3AAyF5o-1" value="Atmega328 processor&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO4VWulvNxc_o3AAyF5o-2" value="Liquid crystal Display" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO4VWulvNxc_o3AAyF5o-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="470" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yO4VWulvNxc_o3AAyF5o-6" value="Analog to Digital converter&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO4VWulvNxc_o3AAyF5o-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=north;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yO4VWulvNxc_o3AAyF5o-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="490" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yO4VWulvNxc_o3AAyF5o-12" value="Compares with the preset values and gives describes about the temperature." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO4VWulvNxc_o3AAyF5o-13" value="Converts the analog output to the digital out put." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="530" y="150" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO4VWulvNxc_o3AAyF5o-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="510" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yO4VWulvNxc_o3AAyF5o-15" value="SENSOR&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="250" y="420" width="390" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
